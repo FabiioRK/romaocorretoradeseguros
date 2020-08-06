@@ -1,0 +1,157 @@
+h2 {
+    font-size  : 25px;
+    font-weight: bold;
+}
+
+p {
+    font-size : 16px;
+    text-align: center;
+}
+
+/*/////////////////////*/
+
+.automovel {
+    border-radius     : 100px;
+    -webkit-box-shadow: 1px 1px 10px 0.1px rgba(0, 0, 0, 1);
+    -moz-box-shadow   : 1px 1px 10px 0.1px rgba(0, 0, 0, 1);
+    box-shadow        : 1px 1px 10px 0.1px rgba(0, 0, 0, 1);
+    margin-top        : 50px;
+    float             : left;
+}
+
+.automovel-titulo {
+    padding-top : 60px;
+    padding-left: 290px;
+}
+
+.automovel-texto {
+    width       : 270px;
+    padding-left: 210px;
+}
+
+/*/////////////////////*/
+
+.residencial {
+    border-radius     : 100px;
+    -webkit-box-shadow: 1px 1px 10px 0.1px rgba(0, 0, 0, 1);
+    -moz-box-shadow   : 1px 1px 10px 0.1px rgba(0, 0, 0, 1);
+    box-shadow        : 1px 1px 10px 0.1px rgba(0, 0, 0, 1);
+    margin-top        : -165px;
+    margin-right      : 200px;
+    float             : right;
+}
+
+.residencial-titulo {
+    clear       : both;
+    float       : right;
+    margin-top  : -195px;
+    margin-right: 0px;
+}
+
+.residencial-texto {
+    float       : right;
+    clear       : both;
+    width       : 250px;
+    margin-top  : -162px;
+    margin-right: -65px
+}
+
+/*/////////////////////*/
+
+.empresarial {
+    border-radius     : 100px;
+    -webkit-box-shadow: 1px 1px 10px 0.1px rgba(0, 0, 0, 1);
+    -moz-box-shadow   : 1px 1px 10px 0.1px rgba(0, 0, 0, 1);
+    box-shadow        : 1px 1px 10px 0.1px rgba(0, 0, 0, 1);
+    clear             : both;
+    float             : left;
+    margin-top        : 100px;
+}
+
+.empresarial-titulo {
+    padding-top : 150px;
+    padding-left: 275px;
+}
+
+.empresarial-texto {
+    width       : 260px;
+    padding-left: 210px;
+}
+
+/*/////////////////////*/
+
+.pprivada {
+    border-radius     : 100px;
+    -webkit-box-shadow: 1px 1px 10px 0.1px rgba(0, 0, 0, 1);
+    -moz-box-shadow   : 1px 1px 10px 0.1px rgba(0, 0, 0, 1);
+    box-shadow        : 1px 1px 10px 0.1px rgba(0, 0, 0, 1);
+    float             : right;
+    margin-top        : -175px;
+    margin-right      : 195px;
+}
+
+.pprivada-titulo {
+    clear       : both;
+    float       : right;
+    margin-top  : -180px;
+    margin-right: -50px;
+}
+
+.pprivada-texto {
+    float       : right;
+    clear       : both;
+    width       : 270px;
+    margin-top  : -152px;
+    margin-right: -80px
+}
+
+/*/////////////////////*/
+
+.vida {
+    border-radius     : 100px;
+    -webkit-box-shadow: 1px 1px 10px 0.1px rgba(0, 0, 0, 1);
+    -moz-box-shadow   : 1px 1px 10px 0.1px rgba(0, 0, 0, 1);
+    box-shadow        : 1px 1px 10px 0.1px rgba(0, 0, 0, 1);
+    clear             : both;
+    float             : left;
+    margin-top        : 100px;
+}
+
+.vida-titulo {
+    padding-top : 150px;
+    padding-left: 305px;
+}
+
+.vida-texto {
+    width       : 260px;
+    padding-left: 210px;
+}
+
+/*/////////////////////*/
+
+.saudeodonto{
+    border-radius     : 100px;
+    -webkit-box-shadow: 1px 1px 10px 0.1px rgba(0, 0, 0, 1);
+    -moz-box-shadow   : 1px 1px 10px 0.1px rgba(0, 0, 0, 1);
+    box-shadow        : 1px 1px 10px 0.1px rgba(0, 0, 0, 1);
+    float             : right;
+    margin-top        : -150px;
+    margin-right      : 195px;
+}
+
+.saudeodonto-titulo{
+    clear       : both;
+    float       : right;
+    margin-top  : -180px;
+    margin-right: -35px;
+}
+
+.saudeodonto-texto{
+    float       : right;
+    clear       : both;
+    width       : 260px;
+    margin-top  : -152px;
+    margin-right: -80px
+}
+
+/*/////////////////////*/

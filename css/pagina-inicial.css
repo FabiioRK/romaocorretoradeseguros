@@ -1,0 +1,122 @@
+blockquote {
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.slogan {
+    border-radius   : 5px;
+    background-color: rgba(27, 27, 27, 0.932);
+    color           : rgb(230, 230, 230);
+    font-size       : 40px;
+    padding         : 13px;
+    margin          : 35px;
+}
+
+.about {
+    border          : 5px;
+    -webkit-box-shadow: 1px 1px 10px 0.1px rgba(0, 0, 0, 1);
+    -moz-box-shadow   : 1px 1px 10px 0.1px rgba(0, 0, 0, 1);
+    box-shadow        : 1px 1px 10px 0.1px rgba(0, 0, 0, 1);
+    width           : 430px;
+    background-image: url(../img/logo450.png);
+    background-color: rgba(0, 52, 72, 1);
+    float           : left;
+}
+
+.about-barra {
+    color: white;
+    padding-top   : 45px;
+    padding-bottom: 35px;
+    font-weight: bold;
+}
+
+.about-titulo {
+    color: white;
+    font-size     : 22px;
+    padding-bottom: 25px;
+    font-weight: bold;
+}
+
+.about-texto {
+    color: white;
+    font-size     : 17px;
+    padding-bottom: 150px;
+}
+
+.logoFacebook {
+    background-image: url(../img/logoFacebook.png);
+    display         : inline-block;
+    text-indent     : -99999px;
+    width           : 22px;
+    height          : 22px;
+    margin          : 5px;
+}
+
+.logoInstagram {
+    background-image: url(../img/logoInstagram.png);
+    display         : inline-block;
+    text-indent     : -99999px;
+    width           : 22px;
+    height          : 22px;
+    margin          : 5px;
+}
+
+.destaque {
+    font-size    : 30px;
+    padding-left : 490px;
+    font-weight  : bold;
+    margin-bottom: 15px;
+}
+
+.destaque-automovel-img {
+    float      : left;
+    margin-top : 10px;
+    margin-left: 40px;
+    border     : solid 3px white;
+}
+
+.destaque-automovel-titulo {
+    font-size     : 20px;
+    padding-top   : 10px;
+    padding-bottom: 10px;
+    padding-left  : 650px;
+}
+
+.destaque-automovel {
+    font-size   : 16px;
+    padding-left: 650px;
+    text-align  : justify;
+    width       : 300px;
+}
+
+.destaque-residencial-img {
+    float      : left;
+    margin-top : 40px;
+    margin-left: 40px;
+    border     : solid 3px white;
+}
+
+.destaque-residencial-titulo {
+    font-size     : 20px;
+    padding-top   : 50px;
+    padding-bottom: 10px;
+    padding-left  : 650px;
+}
+
+.destaque-residencial {
+    font-size   : 16px;
+    padding-left: 650px;
+    text-align  : justify;
+    width       : 300px;
+}
+
+h2 {
+    clear      : both;
+    font-size  : 30px;
+    font-weight: bold;
+    padding-top: 30px;
+}
+
+.questionario {
+    text-align: justify;
+}
